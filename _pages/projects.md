@@ -26,8 +26,7 @@ A progressive learning path I built for infrastructure professionals:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Azure Governance Made Simple | 30 chapters on identity, policy, IaC, cost, observability, and governance at scale | [book.azgovernance.com](https://book.azgovernance.com) |
-| Azure Governance Checklist | Interactive Azure governance checklist — identity, networking, security, cost, operations | [azgovernance.com](https://azgovernance.com) |
+| Azure Governance Made Simple | 30 chapters on identity, policy, IaC, cost, observability, and governance at scale | [azgovernance.com](https://azgovernance.com) |
 | Startup-Scale Landing Zone | Opinionated landing zone for startups on Azure. Deploy in under 1 hour (Bicep + Terraform) | [startupscalelanding.zone](https://startupscalelanding.zone) |
 | Azure Digital Natives Guide | Complete checklist for startups and digital-native teams on Azure | [azdnguide.com](https://azdnguide.com) |
 
